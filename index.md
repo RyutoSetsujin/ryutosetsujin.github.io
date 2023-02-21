@@ -3,9 +3,12 @@ title: Home
 layout: home
 ---
 
-Welcome to my website.
+Welcome to my website. My pronouns are they/them.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# Who Am I?
+Hi! Thank you for taking time out of your day to check out my website!
+I'm an 18y/o budding website designer and game developer aiming to build my skills and make something people can enjoy.
+I know very little html, css, js--or any coding language for that matter--but I'm trying my best to learn as much as I can!
 
 More specifically, the created site:
 
