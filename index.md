@@ -10,6 +10,11 @@ Hi! Thank you for taking time out of your day to check out my website!
 I'm an 18y/o budding website designer and game developer aiming to build my skills and make something people can enjoy.
 I know very little html, css, js--or any coding language for that matter--but I'm trying my best to learn as much as I can!
 
+# What I Do
+I am currently in the education system (Grade 12 to be exact), and I've been heavily enjoying Science (specifically botany) and English. During my free time, I play games, work on this website, and come up with ideas for new projects.
+If you ever want to see my ideas, you can visit the "Ideas" page in the sidebar.
+
+
 More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
