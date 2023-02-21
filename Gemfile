@@ -5,3 +5,10 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.4.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+gem 'jemoji'
+gem 'jekyll-twitter-plugin'
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
